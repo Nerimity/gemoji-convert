@@ -1,0 +1,1 @@
+Converts https://github.com/github/gemoji/blob/master/db/emoji.json

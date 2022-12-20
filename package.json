@@ -1,0 +1,12 @@
+{
+  "name": "gemoji-convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
