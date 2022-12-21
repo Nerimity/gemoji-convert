@@ -23,4 +23,4 @@ fs.rmSync("./out", {recursive: true, force: true});
 fs.mkdirSync("./out")
 fs.writeFileSync('./out/emoji-shortcodes.json', JSON.stringify(shortcodesToEmojis, null, 2));
 fs.writeFileSync('./out/emoji.json', JSON.stringify(emojiList, null, 2));
-fs.writeFileSync('./out/categories.json', JSON.stringify(new Array(...categories), null, 2));
+fs.writeFileSync('./out/emoji-categories.json', JSON.stringify(new Array(...categories), null, 2));
