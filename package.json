@@ -10,7 +10,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.11.0",
-    "twemoji": "^14.0.2"
   }
 }
