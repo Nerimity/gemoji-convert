@@ -19,7 +19,7 @@ emojiList.forEach(emoji => {
 
 const shortcodeToUnicodes = {};
 emojiList.forEach(emoji => {
-    shortcodeToUnicodes[emoji.short_names[0]] = emoji.emoji;
+    emoji.short_names.forEach(shortname => shortcodeToUnicodes[shortname] = emoji.emoji)
 });
 
 const categories = new Set();
