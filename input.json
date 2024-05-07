@@ -21046,7 +21046,8 @@
   , "category": "Flags"
   , "aliases": [
       "gb"
-    , "uk"
+    , "uk",
+      "united_kingdom"
     ]
   , "tags": [
       "flag"
