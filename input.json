@@ -6670,7 +6670,7 @@
   {
     "emoji": "🍄",
     "description": "mushroom",
-    "category": "Food & Drink",
+    "category": "Animals & Nature",
     "aliases": ["mushroom"],
     "tags": [],
     "unicode_version": "6.0",
@@ -10369,7 +10369,7 @@
   {
     "emoji": "🔫",
     "description": "water pistol",
-    "category": "Objects",
+    "category": "Activities",
     "aliases": ["gun"],
     "tags": ["shoot", "weapon"],
     "unicode_version": "6.0",
@@ -12376,7 +12376,7 @@
   {
     "emoji": "💣",
     "description": "bomb",
-    "category": "Smileys & Emotion",
+    "category": "Objects",
     "aliases": ["bomb"],
     "tags": ["boom"],
     "unicode_version": "6.0",
@@ -12934,7 +12934,7 @@
   {
     "emoji": "🧿",
     "description": "nazar amulet",
-    "category": "Activities",
+    "category": "Objects",
     "aliases": ["nazar_amulet"],
     "tags": [],
     "unicode_version": "11.0",
@@ -12943,7 +12943,7 @@
   {
     "emoji": "🪬",
     "description": "hamsa",
-    "category": "Activities",
+    "category": "Objects",
     "aliases": ["hamsa"],
     "tags": [],
     "unicode_version": "14.0",
