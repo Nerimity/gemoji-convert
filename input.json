@@ -513,6 +513,15 @@
     "ios_version": "6.0"
   },
   {
+    "emoji": "🫩",
+    "description": "face with bags under eyes",
+    "category": "Smileys & Emotion",
+    "aliases": ["face_with_bags_under_eyes"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "😷",
     "description": "face with medical mask",
     "category": "Smileys & Emotion",
@@ -919,7 +928,7 @@
   },
   {
     "emoji": "😡",
-    "description": "pouting face",
+    "description": "enraged face",
     "category": "Smileys & Emotion",
     "aliases": ["rage", "pout"],
     "tags": ["angry"],
@@ -1504,7 +1513,7 @@
   },
   {
     "emoji": "💤",
-    "description": "zzz",
+    "description": "ZZZ",
     "category": "Smileys & Emotion",
     "aliases": ["zzz"],
     "tags": ["sleeping"],
@@ -3541,7 +3550,7 @@
   },
   {
     "emoji": "🧑‍🎄",
-    "description": "mx claus",
+    "description": "Mx Claus",
     "category": "People & Body",
     "aliases": ["mx_claus"],
     "tags": [],
@@ -4872,7 +4881,7 @@
     "tags": ["couple", "date"],
     "unicode_version": "12.0",
     "ios_version": "13.0",
-    "skin_tones": false
+    "skin_tones": true
   },
   {
     "emoji": "👭",
@@ -5298,6 +5307,15 @@
     "tags": ["feet", "tracks"],
     "unicode_version": "6.0",
     "ios_version": "6.0"
+  },
+  {
+    "emoji": "🫆",
+    "description": "fingerprint",
+    "category": "People & Body",
+    "aliases": ["fingerprint"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "🐵",
@@ -6281,6 +6299,51 @@
     "ios_version": "16.4"
   },
   {
+    "emoji": "🦀",
+    "description": "crab",
+    "category": "Animals & Nature",
+    "aliases": ["crab"],
+    "tags": [],
+    "unicode_version": "8.0",
+    "ios_version": "9.1"
+  },
+  {
+    "emoji": "🦞",
+    "description": "lobster",
+    "category": "Animals & Nature",
+    "aliases": ["lobster"],
+    "tags": [],
+    "unicode_version": "11.0",
+    "ios_version": "12.1"
+  },
+  {
+    "emoji": "🦐",
+    "description": "shrimp",
+    "category": "Animals & Nature",
+    "aliases": ["shrimp"],
+    "tags": [],
+    "unicode_version": "9.0",
+    "ios_version": "10.2"
+  },
+  {
+    "emoji": "🦑",
+    "description": "squid",
+    "category": "Animals & Nature",
+    "aliases": ["squid"],
+    "tags": [],
+    "unicode_version": "9.0",
+    "ios_version": "10.2"
+  },
+  {
+    "emoji": "🦪",
+    "description": "oyster",
+    "category": "Animals & Nature",
+    "aliases": ["oyster"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
     "emoji": "🐌",
     "description": "snail",
     "category": "Animals & Nature",
@@ -6672,9 +6735,18 @@
     "description": "mushroom",
     "category": "Animals & Nature",
     "aliases": ["mushroom"],
-    "tags": [],
+    "tags": ["fungus"],
     "unicode_version": "6.0",
     "ios_version": "6.0"
+  },
+  {
+    "emoji": "🪾",
+    "description": "leafless tree",
+    "category": "Animals & Nature",
+    "aliases": ["leafless_tree"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "🍇",
@@ -7016,6 +7088,15 @@
     "aliases": ["brown_mushroom"],
     "tags": [],
     "unicode_version": "15.1",
+    "ios_version": "16.4"
+  },
+  {
+    "emoji": "🫜",
+    "description": "root vegetable",
+    "category": "Food & Drink",
+    "aliases": ["root_vegetable"],
+    "tags": [],
+    "unicode_version": "16.0",
     "ios_version": "16.4"
   },
   {
@@ -7476,51 +7557,6 @@
     "tags": [],
     "unicode_version": "11.0",
     "ios_version": "12.1"
-  },
-  {
-    "emoji": "🦀",
-    "description": "crab",
-    "category": "Food & Drink",
-    "aliases": ["crab"],
-    "tags": [],
-    "unicode_version": "8.0",
-    "ios_version": "9.1"
-  },
-  {
-    "emoji": "🦞",
-    "description": "lobster",
-    "category": "Food & Drink",
-    "aliases": ["lobster"],
-    "tags": [],
-    "unicode_version": "11.0",
-    "ios_version": "12.1"
-  },
-  {
-    "emoji": "🦐",
-    "description": "shrimp",
-    "category": "Food & Drink",
-    "aliases": ["shrimp"],
-    "tags": [],
-    "unicode_version": "9.0",
-    "ios_version": "10.2"
-  },
-  {
-    "emoji": "🦑",
-    "description": "squid",
-    "category": "Food & Drink",
-    "aliases": ["squid"],
-    "tags": [],
-    "unicode_version": "9.0",
-    "ios_version": "10.2"
-  },
-  {
-    "emoji": "🦪",
-    "description": "oyster",
-    "category": "Food & Drink",
-    "aliases": ["oyster"],
-    "tags": [],
-    "unicode_version": "12.0",
-    "ios_version": "13.0"
   },
   {
     "emoji": "🍦",
@@ -11303,6 +11339,15 @@
     "ios_version": "16.4"
   },
   {
+    "emoji": "🪉",
+    "description": "harp",
+    "category": "Objects",
+    "aliases": ["harp"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "📱",
     "description": "mobile phone",
     "category": "Objects",
@@ -12543,6 +12588,15 @@
     "tags": [],
     "unicode_version": "13.0",
     "ios_version": "14.0"
+  },
+  {
+    "emoji": "🪏",
+    "description": "shovel",
+    "category": "Objects",
+    "aliases": ["shovel"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "⚗️",
@@ -14210,6 +14264,15 @@
     "ios_version": "6.0"
   },
   {
+    "emoji": "🫟",
+    "description": "splatter",
+    "category": "Symbols",
+    "aliases": ["splatter"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "#️⃣",
     "description": "keycap: #",
     "category": "Symbols",
@@ -15515,6 +15578,15 @@
     "ios_version": "12.1"
   },
   {
+    "emoji": "🇨🇶",
+    "description": "flag: Sark",
+    "category": "Flags",
+    "aliases": ["flag_sark"],
+    "tags": [],
+    "unicode_version": "16.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "🇨🇷",
     "description": "flag: Costa Rica",
     "category": "Flags",
@@ -16031,7 +16103,7 @@
     "emoji": "🇮🇲",
     "description": "flag: Isle of Man",
     "category": "Flags",
-    "aliases": ["isle_of_man", "flag_im"],
+    "aliases": ["isle_of_man"],
     "tags": [],
     "unicode_version": "6.0",
     "ios_version": "9.0"
@@ -17127,7 +17199,7 @@
   },
   {
     "emoji": "🇹🇷",
-    "description": "flag: Turkey",
+    "description": "flag: Türkiye",
     "category": "Flags",
     "aliases": ["tr", "flag_tr"],
     "tags": ["turkey"],
