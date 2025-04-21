@@ -1,4 +1,4 @@
-Converts https://github.com/github/gemoji/pull/294 (https://raw.githubusercontent.com/github/gemoji/b0193e1063f6f74a774baad5f38c20ad8b7cb59c/db/emoji.json)
+Converts https://github.com/github/gemoji/pull/303 (https://raw.githubusercontent.com/github/gemoji/537ff2d7e0496e9964824f7f73ec7ece88c9765a/db/emoji.json)
 
 ## Modifications made to input.json
 
