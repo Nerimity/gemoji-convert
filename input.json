@@ -765,6 +765,15 @@
     "ios_version": "6.0"
   },
   {
+    "emoji": "🫪",
+    "description": "distorted face",
+    "category": "Smileys & Emotion",
+    "aliases": ["distorted_face"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "🥺",
     "description": "pleading face",
     "category": "Smileys & Emotion",
@@ -1422,6 +1431,15 @@
     "ios_version": "6.0"
   },
   {
+    "emoji": "🫯",
+    "description": "fight cloud",
+    "category": "Smileys & Emotion",
+    "aliases": ["fight_cloud"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "💥",
     "description": "collision",
     "category": "Smileys & Emotion",
@@ -1954,7 +1972,7 @@
     "emoji": "💪",
     "description": "flexed biceps",
     "category": "People & Body",
-    "aliases": ["muscle"],
+    "aliases": ["flex", "muscle", "strong"],
     "tags": ["flex", "bicep", "strong", "workout"],
     "unicode_version": "6.0",
     "ios_version": "6.0",
@@ -3832,6 +3850,15 @@
     "ios_version": "15.4"
   },
   {
+    "emoji": "🫈",
+    "description": "hairy creature",
+    "category": "People & Body",
+    "aliases": ["hairy_creature"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "💆",
     "description": "person getting massage",
     "category": "People & Body",
@@ -4282,6 +4309,16 @@
     "skin_tones": true
   },
   {
+    "emoji": "🧑‍🩰",
+    "description": "ballet dancer",
+    "category": "People & Body",
+    "aliases": ["ballet_dancer"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4",
+    "skin_tones": true
+  },
+  {
     "emoji": "💃",
     "description": "woman dancing",
     "category": "People & Body",
@@ -4318,7 +4355,8 @@
     "aliases": ["dancers"],
     "tags": ["bunny"],
     "unicode_version": "6.0",
-    "ios_version": "6.0"
+    "ios_version": "6.0",
+    "skin_tones": true
   },
   {
     "emoji": "👯‍♂️",
@@ -4327,7 +4365,8 @@
     "aliases": ["dancing_men"],
     "tags": ["bunny"],
     "unicode_version": "6.0",
-    "ios_version": "10.0"
+    "ios_version": "10.0",
+    "skin_tones": true
   },
   {
     "emoji": "👯‍♀️",
@@ -4336,7 +4375,8 @@
     "aliases": ["dancing_women"],
     "tags": ["bunny"],
     "unicode_version": "11.0",
-    "ios_version": "12.1"
+    "ios_version": "12.1",
+    "skin_tones": true
   },
   {
     "emoji": "🧖",
@@ -4713,7 +4753,8 @@
     "aliases": ["wrestling"],
     "tags": [],
     "unicode_version": "11.0",
-    "ios_version": "12.1"
+    "ios_version": "12.1",
+    "skin_tones": true
   },
   {
     "emoji": "🤼‍♂️",
@@ -4722,7 +4763,8 @@
     "aliases": ["men_wrestling"],
     "tags": [],
     "unicode_version": "9.0",
-    "ios_version": "10.2"
+    "ios_version": "10.2",
+    "skin_tones": true
   },
   {
     "emoji": "🤼‍♀️",
@@ -4731,7 +4773,8 @@
     "aliases": ["women_wrestling"],
     "tags": [],
     "unicode_version": "9.0",
-    "ios_version": "10.2"
+    "ios_version": "10.2",
+    "skin_tones": true
   },
   {
     "emoji": "🤽",
@@ -6216,6 +6259,15 @@
     "tags": [],
     "unicode_version": "6.0",
     "ios_version": "6.0"
+  },
+  {
+    "emoji": "🫍",
+    "description": "orca",
+    "category": "Animals & Nature",
+    "aliases": ["orca"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "🦭",
@@ -8007,6 +8059,15 @@
     "tags": [],
     "unicode_version": "5.2",
     "ios_version": "9.1"
+  },
+  {
+    "emoji": "🛘",
+    "description": "landslide",
+    "category": "Travel & Places",
+    "aliases": ["landslide"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "🌋",
@@ -9956,7 +10017,7 @@
     "emoji": "🎉",
     "description": "party popper",
     "category": "Activities",
-    "aliases": ["tada"],
+    "aliases": ["party", "tada", "party_popper"],
     "tags": ["hooray", "party"],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9965,7 +10026,7 @@
     "emoji": "🎊",
     "description": "confetti ball",
     "category": "Activities",
-    "aliases": ["confetti_ball"],
+    "aliases": ["confetti", "confetti_ball"],
     "tags": [],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11249,6 +11310,24 @@
     "ios_version": "6.0"
   },
   {
+    "emoji": "🎺",
+    "description": "trumpet",
+    "category": "Objects",
+    "aliases": ["trumpet"],
+    "tags": [],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🪊",
+    "description": "trombone",
+    "category": "Objects",
+    "aliases": ["trombone"],
+    "tags": [],
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
+  },
+  {
     "emoji": "🪗",
     "description": "accordion",
     "category": "Objects",
@@ -11272,15 +11351,6 @@
     "category": "Objects",
     "aliases": ["musical_keyboard"],
     "tags": ["piano"],
-    "unicode_version": "6.0",
-    "ios_version": "6.0"
-  },
-  {
-    "emoji": "🎺",
-    "description": "trumpet",
-    "category": "Objects",
-    "aliases": ["trumpet"],
-    "tags": [],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11825,6 +11895,15 @@
     "ios_version": "9.1"
   },
   {
+    "emoji": "🪙",
+    "description": "coin",
+    "category": "Objects",
+    "aliases": ["coin"],
+    "tags": [],
+    "unicode_version": "13.0",
+    "ios_version": "14.0"
+  },
+  {
     "emoji": "💰",
     "description": "money bag",
     "category": "Objects",
@@ -11834,13 +11913,13 @@
     "ios_version": "6.0"
   },
   {
-    "emoji": "🪙",
-    "description": "coin",
+    "emoji": "🪎",
+    "description": "treasure chest",
     "category": "Objects",
-    "aliases": ["coin"],
+    "aliases": ["treasure_chest"],
     "tags": [],
-    "unicode_version": "13.0",
-    "ios_version": "14.0"
+    "unicode_version": "15.0",
+    "ios_version": "16.4"
   },
   {
     "emoji": "💴",
