@@ -1,3 +1,7 @@
+## NOTICE
+
+use https://github.com/github/gemoji ruby code to upgrade unicode version
+
 Converts https://github.com/github/gemoji/pull/303 (https://raw.githubusercontent.com/github/gemoji/537ff2d7e0496e9964824f7f73ec7ece88c9765a/db/emoji.json)
 
 ## Modifications made to input.json
